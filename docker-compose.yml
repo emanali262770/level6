@@ -1,0 +1,6 @@
+services:
+  level6:
+    build: ./
+    ports:
+      - "5000:5000"
+      
